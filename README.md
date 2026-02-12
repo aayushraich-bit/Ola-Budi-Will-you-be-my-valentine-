@@ -1,4 +1,4 @@
-# Ola-Budi-Will-you-be-my-valentine-
+# OlaBudiWillyoubemyvalentine
 <!DOCTYPE html>
 <html>
 <head>
@@ -97,11 +97,11 @@
     yesBtn.addEventListener("click", function() {
         yesCount++;
 
-        if (yesCount < 5) {
+        if (nocount < 5) {
             message.innerHTML = "Press Yes again if you truly love me 😘 (" + yesCount + "/5)";
         } else {
             message.innerHTML = `
-                Thank you, my beautiful Prasansa 🌹💖<br><br>
+                Thank you, my beautiful budi 🌹💖<br><br>
                 You are my peace in chaos,<br>
                 My strength when I am weak,<br>
                 My happiness in every season.<br><br>
